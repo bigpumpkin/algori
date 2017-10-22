@@ -1,3 +1,4 @@
+
 cache = {}
 
 def get_page(url):
